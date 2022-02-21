@@ -1,3 +1,0 @@
-theme: jekyll-theme-cayman
-name: Release Drafter
-uses: release-drafter/release-drafter@v5.18.1
